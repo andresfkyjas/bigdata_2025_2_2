@@ -1,0 +1,101 @@
+id_pintura;pais;region;sitio_arqueologico;coordenada_lat;coordenada_lon;altitud_msnm
+1;Italia;Piemonte;Tito Bustillo;43,768533;-3,376075;154
+2;Italia;Occitania;Tito Bustillo;43,439145;-4,901048;120
+3;España;Piemonte;Lascaux;43,288981;-4,427583;137
+4;Portugal;Asturias;Niaux;42,944368;-4,312674;384
+5;Portugal;Occitania;Tito Bustillo;42,520338;-3,688009;392
+6;Francia;Cantabria;Lascaux;42,788736;-4,665335;306
+7;Francia;Occitania;Chauvet;43,81192;-4,005848;280
+8;Francia;Cantabria;Lascaux;42,854846;-3,904429;225
+9;Portugal;Asturias;Tito Bustillo;43,111748;-4,361425;153
+10;Italia;Occitania;El Castillo;43,774503;-3,500685;318
+11;España;Occitania;Chauvet;42,42001;-4,45952;344
+12;Francia;Cantabria;Chauvet;43,935371;-4,748252;177
+13;Italia;Asturias;Altamira;42,769122;-3,708417;115
+14;Italia;Piemonte;El Castillo;42,064487;-3,580976;50
+15;Italia;Occitania;Lascaux;42,146276;-3,139523;105
+16;España;Occitania;Altamira;42,447601;-4,695864;332
+17;Francia;Aquitania;Tito Bustillo;43,553723;-4,997268;69
+18;Francia;Asturias;Tito Bustillo;43,291012;-4,392435;375
+19;España;Cantabria;Chauvet;42,874861;-3,472312;318
+20;Portugal;Aquitania;Tito Bustillo;43,887081;-4,616596;50
+21;Italia;Asturias;Chauvet;42,020923;-4,396957;380
+22;Francia;Piemonte;Lascaux;43,678822;-4,515285;64
+23;Portugal;Cantabria;Altamira;43,921228;-3,590693;149
+24;Italia;Cantabria;Chauvet;42,99662;-3,651073;166
+25;Francia;Occitania;Altamira;43,33471;-3,149678;223
+26;Italia;Aquitania;Altamira;43,436664;-4,27536;199
+27;Francia;Occitania;Lascaux;43,478258;-3,990243;209
+28;Italia;Aquitania;Chauvet;43,531714;-4,612133;201
+29;Francia;Aquitania;El Castillo;42,218016;-3,752806;263
+30;Francia;Occitania;Altamira;43,820792;-4,887166;159
+31;Italia;Cantabria;Niaux;42,047257;-3,807746;80
+32;Portugal;Cantabria;Altamira;42,36821;-4,100716;134
+33;Italia;Cantabria;Chauvet;42,658486;-4,628976;390
+34;Portugal;Occitania;Lascaux;43,450755;-3,321746;105
+35;Portugal;Occitania;Altamira;42,005741;-4,440387;337
+36;Portugal;Asturias;El Castillo;43,928542;-4,585195;94
+37;Portugal;Piemonte;El Castillo;42,098515;-4,053072;148
+38;Italia;Cantabria;Niaux;42,646618;-3,52536;260
+39;Italia;Cantabria;El Castillo;42,496026;-3,749183;67
+40;España;Asturias;Lascaux;42,928101;-3,393324;82
+41;Portugal;Asturias;Tito Bustillo;43,797104;-4,321861;72
+42;Portugal;Asturias;Chauvet;42,524345;-3,566729;51
+43;España;Cantabria;Lascaux;43,443144;-3,808864;104
+44;Italia;Asturias;El Castillo;42,950378;-3,086445;302
+45;España;Asturias;Niaux;42,265415;-4,006919;127
+46;Portugal;Occitania;Chauvet;43,214508;-4,3444;355
+47;Francia;Aquitania;El Castillo;42,15803;-4,605376;83
+48;Portugal;Aquitania;El Castillo;43,299092;-4,03662;103
+49;España;Aquitania;Altamira;43,975648;-4,470217;265
+50;Italia;Aquitania;Lascaux;42,996951;-3,580458;118
+51;Francia;Piemonte;Niaux;42,833681;-3,759385;112
+52;Portugal;Piemonte;Chauvet;43,559501;-4,412153;240
+53;Italia;Aquitania;Lascaux;42,508113;-4,47933;175
+54;Francia;Asturias;Altamira;42,471008;-4,437292;252
+55;Francia;Cantabria;Niaux;42,503307;-4,508102;287
+56;Italia;Aquitania;El Castillo;43,981911;-4,795335;241
+57;España;Cantabria;Lascaux;42,080724;-4,412645;357
+58;España;Asturias;Tito Bustillo;43,94593;-3,833612;141
+59;España;Cantabria;Niaux;42,898228;-4,480104;355
+60;España;Asturias;Chauvet;43,419412;-4,300601;122
+61;España;Piemonte;Niaux;42,088333;-3,000252;383
+62;Portugal;Occitania;Niaux;43,82791;-3,370513;240
+63;Francia;Cantabria;El Castillo;42,37029;-4,375609;330
+64;Italia;Piemonte;Lascaux;42,967014;-4,18366;377
+65;Italia;Asturias;El Castillo;43,067994;-3,693883;195
+66;España;Asturias;Niaux;43,335622;-4,164309;340
+67;España;Asturias;Niaux;43,76739;-4,17184;150
+68;España;Occitania;Lascaux;42,781462;-4,190053;266
+69;Portugal;Occitania;Lascaux;42,227079;-4,819024;116
+70;Italia;Cantabria;Tito Bustillo;42,029669;-3,896904;368
+71;Francia;Aquitania;Chauvet;43,854455;-3,525502;195
+72;España;Cantabria;El Castillo;42,323629;-4,656429;301
+73;Francia;Asturias;Lascaux;43,507112;-3,41571;72
+74;España;Piemonte;Niaux;43,951093;-4,034527;248
+75;Francia;Aquitania;Tito Bustillo;42,172589;-3,575379;257
+76;Italia;Aquitania;Tito Bustillo;43,229458;-4,607774;161
+77;Francia;Occitania;Chauvet;42,083425;-3,122902;113
+78;Francia;Cantabria;Tito Bustillo;42,298934;-3,058615;394
+79;España;Occitania;Tito Bustillo;42,076257;-3,323591;283
+80;Portugal;Occitania;Chauvet;43,100104;-3,745915;348
+81;Portugal;Occitania;Tito Bustillo;42,498518;-4,221576;274
+82;Italia;Occitania;Lascaux;42,357528;-4,992984;278
+83;Italia;Aquitania;El Castillo;43,52713;-3,44005;254
+84;Italia;Asturias;Altamira;42,214152;-4,743088;276
+85;España;Aquitania;Altamira;43,008684;-3,685808;210
+86;España;Piemonte;El Castillo;43,555272;-3,977037;384
+87;España;Piemonte;Niaux;43,901736;-4,727629;106
+88;Italia;Asturias;Lascaux;42,387415;-3,036544;163
+89;Portugal;Aquitania;Chauvet;42,131032;-4,298205;364
+90;Francia;Asturias;Tito Bustillo;42,549985;-3,368747;295
+91;Francia;Asturias;Chauvet;42,416647;-4,474265;68
+92;Portugal;Asturias;El Castillo;42,397884;-4,193069;136
+93;España;Asturias;El Castillo;43,584248;-4,471318;334
+94;España;Asturias;Tito Bustillo;43,042905;-3,622543;372
+95;Portugal;Asturias;El Castillo;43,713199;-3,524154;238
+96;España;Occitania;Lascaux;43,154721;-4,279497;140
+97;Portugal;Piemonte;Chauvet;43,230747;-3,08404;208
+98;Portugal;Cantabria;Niaux;43,278476;-3,03189;67
+99;Italia;Occitania;Tito Bustillo;42,443275;-4,418057;236
+100;Francia;Piemonte;Niaux;43,791085;-4,735953;73

@@ -1,0 +1,101 @@
+﻿id_pintura;esquema_version;responsable_registro;politica_acceso;fecha_ultima_actualizacion;nivel_de_confianza;acceso_publico;comentarios_arqueologos
+1;v1.5;curador.altamira;restringido;2025-04-20;3,6;VERDADERO;requiere control de humedad
+2;v1.9;curador.altamira;interno;2020-05-29;3,6;FALSO;estable
+3;v1.1;curador.altamira;público;2024-03-07;4,1;VERDADERO;microfisuras leves
+4;v1.9;curador.altamira;interno;2024-07-26;4,1;VERDADERO;OK
+5;v1.8;curador.altamira;restringido;2022-09-13;3,7;VERDADERO;requiere control de humedad
+6;v1.8;admin.catalogo;público;2019-02-27;4,4;VERDADERO;requiere control de humedad
+7;v1.1;admin.catalogo;interno;2018-09-15;4,3;VERDADERO;estable
+8;v1.8;curador.lascaux;restringido;2023-03-23;4,4;FALSO;requiere control de humedad
+9;v1.4;curador.altamira;público;2020-09-26;3,6;FALSO;estable
+10;v1.5;admin.catalogo;restringido;2021-03-25;4,4;VERDADERO;OK
+11;v1.8;curador.lascaux;público;2021-11-02;3,7;FALSO;estable
+12;v1.0;admin.catalogo;público;2024-04-04;4,4;FALSO;requiere control de humedad
+13;v1.5;admin.catalogo;restringido;2024-07-03;4,7;VERDADERO;OK
+14;v1.4;curador.lascaux;interno;2025-06-13;3,6;FALSO;estable
+15;v1.4;admin.catalogo;restringido;2025-07-01;4;FALSO;requiere control de humedad
+16;v1.2;admin.catalogo;público;2023-07-16;3,6;FALSO;microfisuras leves
+17;v1.3;curador.lascaux;restringido;2023-07-27;3,6;FALSO;estable
+18;v1.8;curador.lascaux;público;2022-10-30;4,8;FALSO;estable
+19;v1.5;admin.catalogo;restringido;2020-08-03;3,7;VERDADERO;microfisuras leves
+20;v1.3;admin.catalogo;público;2018-02-19;4,2;VERDADERO;requiere control de humedad
+21;v1.4;curador.altamira;público;2022-09-13;4,3;FALSO;microfisuras leves
+22;v1.8;admin.catalogo;interno;2025-08-01;4,6;FALSO;estable
+23;v1.6;curador.lascaux;restringido;2019-03-01;4,2;FALSO;OK
+24;v1.3;curador.altamira;público;2022-12-10;3,7;FALSO;OK
+25;v1.1;curador.altamira;interno;2019-09-12;4,3;FALSO;OK
+26;v1.1;curador.altamira;interno;2022-03-22;3,7;FALSO;requiere control de humedad
+27;v1.9;curador.lascaux;restringido;2019-05-19;3,7;FALSO;estable
+28;v1.7;curador.lascaux;restringido;2018-12-18;3,7;FALSO;requiere control de humedad
+29;v1.7;admin.catalogo;público;2023-10-16;3,5;FALSO;microfisuras leves
+30;v1.8;curador.altamira;interno;2021-05-05;5;VERDADERO;requiere control de humedad
+31;v1.8;curador.lascaux;público;2021-12-27;4,7;FALSO;microfisuras leves
+32;v1.9;curador.altamira;público;2022-06-30;4,6;VERDADERO;microfisuras leves
+33;v1.8;curador.lascaux;restringido;2018-04-29;5;FALSO;estable
+34;v1.4;curador.altamira;interno;2024-10-14;4,9;FALSO;requiere control de humedad
+35;v1.5;curador.altamira;público;2019-02-23;3,8;VERDADERO;requiere control de humedad
+36;v1.3;curador.lascaux;interno;2024-11-04;4,8;FALSO;requiere control de humedad
+37;v1.1;admin.catalogo;público;2022-05-11;4,7;VERDADERO;estable
+38;v1.2;curador.lascaux;interno;2021-09-23;3,6;FALSO;estable
+39;v1.6;admin.catalogo;público;2019-10-13;3,8;VERDADERO;OK
+40;v1.2;admin.catalogo;restringido;2025-05-10;3,7;FALSO;requiere control de humedad
+41;v1.2;admin.catalogo;interno;2019-06-21;3,5;VERDADERO;microfisuras leves
+42;v1.6;curador.altamira;público;2018-04-25;3,9;FALSO;microfisuras leves
+43;v1.9;curador.lascaux;restringido;2024-02-08;4,1;VERDADERO;OK
+44;v1.5;curador.lascaux;interno;2024-07-17;4,7;FALSO;microfisuras leves
+45;v1.8;curador.altamira;interno;2023-09-23;3,5;FALSO;microfisuras leves
+46;v1.9;curador.altamira;público;2019-12-07;3,7;VERDADERO;OK
+47;v1.5;admin.catalogo;interno;2023-12-14;4,3;VERDADERO;OK
+48;v1.3;curador.altamira;restringido;2018-06-22;4,7;FALSO;OK
+49;v1.1;curador.lascaux;restringido;2024-11-13;5;VERDADERO;requiere control de humedad
+50;v1.7;admin.catalogo;interno;2023-05-13;4,3;VERDADERO;requiere control de humedad
+51;v1.8;curador.altamira;restringido;2019-07-16;4,1;FALSO;estable
+52;v1.5;curador.altamira;interno;2020-09-12;4,1;VERDADERO;requiere control de humedad
+53;v1.1;curador.altamira;interno;2025-03-20;4,5;VERDADERO;requiere control de humedad
+54;v1.2;curador.lascaux;público;2019-01-21;4,1;FALSO;microfisuras leves
+55;v1.3;curador.altamira;interno;2022-11-03;5;FALSO;requiere control de humedad
+56;v1.6;curador.altamira;restringido;2021-07-28;3,6;FALSO;OK
+57;v1.5;admin.catalogo;restringido;2022-12-10;4,6;FALSO;requiere control de humedad
+58;v1.8;admin.catalogo;restringido;2023-09-30;4,9;VERDADERO;microfisuras leves
+59;v1.1;curador.altamira;restringido;2021-01-18;3,6;VERDADERO;requiere control de humedad
+60;v1.2;curador.lascaux;interno;2020-11-25;4,1;FALSO;requiere control de humedad
+61;v1.1;curador.lascaux;público;2025-09-19;3,8;VERDADERO;requiere control de humedad
+62;v1.0;admin.catalogo;público;2020-12-03;3,6;VERDADERO;OK
+63;v1.4;curador.altamira;restringido;2018-02-17;4;FALSO;requiere control de humedad
+64;v1.9;curador.altamira;público;2023-11-29;4,6;VERDADERO;microfisuras leves
+65;v1.4;curador.altamira;público;2020-04-06;4,9;FALSO;microfisuras leves
+66;v1.4;curador.lascaux;interno;2025-07-16;3,8;FALSO;OK
+67;v1.4;curador.altamira;público;2018-03-17;4,6;VERDADERO;estable
+68;v1.3;curador.lascaux;público;2025-05-20;4,7;FALSO;estable
+69;v1.8;curador.lascaux;interno;2021-06-14;4,5;VERDADERO;requiere control de humedad
+70;v1.3;admin.catalogo;interno;2025-02-17;3,7;FALSO;OK
+71;v1.2;curador.altamira;público;2025-01-05;4,6;FALSO;estable
+72;v1.2;curador.altamira;público;2025-06-17;4,8;FALSO;microfisuras leves
+73;v1.4;curador.altamira;restringido;2020-01-30;3,7;FALSO;OK
+74;v1.4;curador.lascaux;restringido;2024-02-19;4;VERDADERO;requiere control de humedad
+75;v1.3;curador.lascaux;público;2018-01-05;4;VERDADERO;estable
+76;v1.4;admin.catalogo;interno;2020-04-03;3,9;VERDADERO;OK
+77;v1.4;curador.altamira;público;2022-06-25;4,4;FALSO;OK
+78;v1.4;curador.lascaux;interno;2020-08-11;3,6;VERDADERO;estable
+79;v1.5;admin.catalogo;restringido;2019-09-05;3,9;VERDADERO;OK
+80;v1.8;admin.catalogo;restringido;2023-09-02;3,7;VERDADERO;microfisuras leves
+81;v1.1;curador.altamira;público;2019-06-30;4,5;VERDADERO;estable
+82;v1.7;admin.catalogo;público;2025-01-15;3,5;VERDADERO;estable
+83;v1.4;curador.altamira;restringido;2018-10-15;4,6;VERDADERO;OK
+84;v1.7;curador.lascaux;público;2020-12-23;3,9;VERDADERO;microfisuras leves
+85;v1.7;curador.lascaux;restringido;2018-11-11;4,2;FALSO;OK
+86;v1.9;admin.catalogo;interno;2020-03-23;3,6;VERDADERO;requiere control de humedad
+87;v1.4;admin.catalogo;interno;2025-10-09;4;VERDADERO;OK
+88;v1.7;curador.altamira;restringido;2021-01-05;5;VERDADERO;microfisuras leves
+89;v1.7;curador.lascaux;interno;2023-10-17;3,9;FALSO;estable
+90;v1.1;admin.catalogo;público;2021-06-30;5;FALSO;OK
+91;v1.4;curador.lascaux;público;2023-09-07;5;FALSO;requiere control de humedad
+92;v1.6;curador.altamira;público;2018-11-02;4,4;VERDADERO;requiere control de humedad
+93;v1.5;curador.altamira;interno;2025-01-31;4,3;VERDADERO;requiere control de humedad
+94;v1.3;curador.lascaux;restringido;2022-06-03;3,5;VERDADERO;estable
+95;v1.7;curador.lascaux;restringido;2019-07-31;4,1;FALSO;requiere control de humedad
+96;v1.1;curador.lascaux;público;2021-08-22;4,6;FALSO;OK
+97;v1.3;admin.catalogo;público;2021-04-02;3,9;VERDADERO;estable
+98;v1.6;admin.catalogo;público;2022-01-17;4,9;FALSO;OK
+99;v1.4;curador.altamira;público;2025-06-04;3,9;VERDADERO;microfisuras leves
+100;v1.4;curador.lascaux;interno;2021-07-16;3,8;FALSO;estable
