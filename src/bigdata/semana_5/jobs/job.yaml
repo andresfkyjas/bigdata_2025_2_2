@@ -1,0 +1,36 @@
+resources:
+  jobs:
+    job_reporte_bakehouse:
+      name: job_reporte_bakehouse
+      tasks:
+        - task_key: 01_config
+          notebook_task:
+            notebook_path: /Workspace/Users/andreski.callejas@gmail.com/bigdata2025_2_2/revisar/00_create_schema
+            source: WORKSPACE
+        - task_key: 00_bronze_ingest_bakehouse
+          depends_on:
+            - task_key: 01_config
+          notebook_task:
+            notebook_path: /Workspace/Users/andreski.callejas@gmail.com/bigdata2025_2_2/revisar/01_bronze_ingest
+            source: WORKSPACE
+        - task_key: 01_silver_transform_bakehouse
+          depends_on:
+            - task_key: 00_bronze_ingest_bakehouse
+          notebook_task:
+            notebook_path: /Workspace/Users/andreski.callejas@gmail.com/bigdata2025_2_2/revisar/02_silver_transform
+            source: WORKSPACE
+        - task_key: 02_gold_model_bakehouse
+          depends_on:
+            - task_key: 01_silver_transform_bakehouse
+          notebook_task:
+            notebook_path: /Workspace/Users/andreski.callejas@gmail.com/bigdata2025_2_2/revisar/03_gold_model
+            source: WORKSPACE
+        - task_key: 03_calidad_bakehouse
+          depends_on:
+            - task_key: 02_gold_model_bakehouse
+          notebook_task:
+            notebook_path: /Workspace/Users/andreski.callejas@gmail.com/bigdata2025_2_2/revisar/04_calidad
+            source: WORKSPACE
+      queue:
+        enabled: true
+      performance_target: PERFORMANCE_OPTIMIZED
